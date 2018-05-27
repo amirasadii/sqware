@@ -1,0 +1,2 @@
+# sqware
+blockchain platform
